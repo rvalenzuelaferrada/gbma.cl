@@ -13,7 +13,7 @@
   ```
 -->
 <template>
-    <div class="relative overflow-hidden bg-white py-16">
+    <div id="nosotros" class="relative overflow-hidden bg-white py-16">
       <div class="hidden lg:absolute lg:inset-y-0 lg:block lg:h-full lg:w-full lg:[overflow-anchor:none]">
         <div class="relative mx-auto h-full max-w-prose text-lg" aria-hidden="true">
           <svg class="absolute top-12 left-full translate-x-32 transform" width="404" height="384" fill="none" viewBox="0 0 404 384">
@@ -45,12 +45,12 @@
       <div class="relative px-6 lg:px-8">
         <div class="mx-auto max-w-prose text-lg">
           <h1>
-            <span class="block text-center text-lg font-semibold text-indigo-600">Introducing</span>
-            <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">JavaScript for Beginners</span>
+            <span class="block text-center text-lg font-semibold text-yellow-600">¿Quiénes somos?</span>
+            <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Precisión y velocidad</span>
           </h1>
           <p class="mt-8 text-xl leading-8 text-gray-500">Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend egestas fringilla sapien.</p>
         </div>
-        <div class="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
+        <div class="prose prose-lg prose-yellow mx-auto mt-6 text-gray-500">
           <p>Faucibus commodo massa rhoncus, volutpat. <strong>Dignissim</strong> sed <strong>eget risus enim</strong>. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. <a href="#">Mattis mauris semper</a> sed amet vitae sed turpis id.</p>
           <ul role="list">
             <li>Quis elit egestas venenatis mattis dignissim.</li>

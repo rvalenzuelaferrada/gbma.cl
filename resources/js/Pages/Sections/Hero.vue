@@ -60,7 +60,7 @@
             </div>
           </DialogPanel>
         </Dialog>
-        <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div class="mx-auto max-w-3xl py-28 sm:py-48 lg:py-56">
         <!--
           <div class="hidden sm:mb-8 sm:flex sm:justify-center">
             <div class="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
@@ -69,8 +69,10 @@
           </div>
           -->
           <div class="text-center">
-            <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">GBM AUTOMATIZACION</h1>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
+            <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">GBM</h1>
+            <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">AUTOMATIZACION</h1>
+            <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">MAESTRANZA</h1>
+            <p class="mt-6 text-2xl leading-8 text-gray-200">Expertos en reparación y fabricación de maquinaria, especializados en metales no ferrosos y maestría en la transformación de polímeros para brindar soluciones industriales de vanguardia.</p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
               <a href="#servicios" class="rounded-md bg-yellow-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400">Servicios</a>
               <a href="#proyectos" class="text-base font-semibold leading-7 text-white">Proyectos <span aria-hidden="true">→</span></a>

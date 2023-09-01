@@ -46,18 +46,18 @@
         <div class="mx-auto max-w-prose text-lg">
           <h1>
             <span class="block text-center text-lg font-semibold text-yellow-600">¿Quiénes somos?</span>
-            <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Precisión y velocidad</span>
+            <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Transformando Desafíos en Ingeniería: Innovación, Polímeros y Automatización Industrial"</span>
           </h1>
-          <p class="mt-8 text-xl leading-8 text-gray-500">Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend egestas fringilla sapien.</p>
+          <p class="mt-8 text-xl leading-8 text-gray-500">Desde nuestros inicios, hemos trazado un extraordinario camino en la fabricación y la ingeniería industrial. Comenzamos con piezas clave como ejes y engranajes, sumando mantenimiento y creación de estructuras sólidas.</p>
         </div>
         <div class="prose prose-lg prose-yellow mx-auto mt-6 text-gray-500">
-          <p>Faucibus commodo massa rhoncus, volutpat. <strong>Dignissim</strong> sed <strong>eget risus enim</strong>. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. <a href="#">Mattis mauris semper</a> sed amet vitae sed turpis id.</p>
-          <ul role="list">
-            <li>Quis elit egestas venenatis mattis dignissim.</li>
-            <li>Cras cras lobortis vitae vivamus ultricies facilisis tempus.</li>
-            <li>Orci in sit morbi dignissim metus diam arcu pretium.</li>
-          </ul>
-          <p>Quis semper vulputate aliquam venenatis egestas sagittis quisque orci. Donec commodo sit viverra aliquam porttitor ultrices gravida eu. Tincidunt leo, elementum mattis elementum ut nisl, justo, amet, mattis. Nunc purus, diam commodo tincidunt turpis. Amet, duis sed elit interdum dignissim.</p>
+          <p>Nuestra destreza artesanal nos impulsó a abordar un desafío único en Chile: diseñar y fabricar una máquina para imprimir etiquetas autoadhesivas en envases de vino, una tarea previamente considerada inalcanzable debido a su complejidad y costos. Esta proeza no solo demostró nuestra capacidad técnica, sino también nuestra voluntad de encontrar soluciones innovadoras.</p>
+
+          <p>Basados en la confianza de amigos, prosperamos y forjamos una reputación en resultados sólidos y calidad impecable. Luego, evolucionamos hacia la automatización y robótica, liderando proyectos integrales de montaje y puesta en marcha de líneas automatizadas en la industria alimentaria. En este proceso, surgió la necesidad de fortalecer nuestro conocimiento en polímeros para aplicaciones alimenticias, especialmente aquellos que pudieran resistir líquidos corrosivos, incluso ácidos.</p>
+
+          <p>
+            Hoy, somos un testimonio de la pasión por la ingeniería y fabricación. Nuestra historia resalta logros, superación y colaboración con líderes industriales, elevando la eficiencia y la innovación en la producción. Somos más que una empresa; somos la encarnación de cómo los desafíos nos impulsan a crecer y cómo la creatividad puede superar los límites.
+          </p>
         </div>
       </div>
     </div>

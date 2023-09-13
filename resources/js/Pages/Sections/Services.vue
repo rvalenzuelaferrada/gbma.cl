@@ -8,7 +8,7 @@
         </div>
         <div class="relative mx-auto max-w-7xl py-24 px-6 sm:py-32 lg:px-8">
           <h1 class="text-4xl font-bold tracking-tight text-white md:text-5xl lg:text-6xl">Servicios</h1>
-          <p class="mt-6 max-w-3xl text-xl text-gray-300">Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames. Dui, amet, nec sit pulvinar.</p>
+          <p class="mt-6 max-w-3xl text-xl text-gray-300">Descubre nuestra gama de servicios especializados en mecanizado, automatización y fabricación de piezas. Además, ofrecemos servicios de mantenimiento y reparación para garantizar que tus equipos y maquinaria funcionen de manera óptima. Tu satisfacción es nuestra prioridad.</p>
         </div>
       </div>
 
@@ -34,29 +34,29 @@
   </template>
 
   <script setup>
-  import { LifebuoyIcon, NewspaperIcon, PhoneIcon } from '@heroicons/vue/24/outline'
+  import { Cog6ToothIcon, BoltIcon, Square3Stack3DIcon } from '@heroicons/vue/24/outline'
 
   const supportLinks = [
     {
-      name: 'Sales',
+      name: 'Mecanizado de Piezas y Diseño 3D',
       href: '#contacto',
       description:
-        'Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames.',
-      icon: PhoneIcon,
+        'Nuestro servicio de mecanizado de piezas es altamente versátil. Ya sea que tengas un diseño en mente, una muestra existente o necesites que creemos un diseño en 3D personalizado, estamos aquí para satisfacer tus necesidades de fabricación de piezas. Especializados en materiales polímeros, materiales no ferrosos y aceros especiales, ofrecemos soluciones de alta calidad y precisión para tu proyecto.',
+      icon: Square3Stack3DIcon,
     },
     {
-      name: 'Technical Support',
+      name: 'Automatización de Maquinaria y Control CNC',
       href: '#contacto',
       description:
-        'Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames.',
-      icon: LifebuoyIcon,
+        'Transforma tu proceso de producción con nuestra experiencia en automatización de maquinaria. Diseñamos e implementamos sistemas de control CNC avanzados que optimizan la eficiencia y la precisión en tu línea de producción. Además, ofrecemos servicios de mecanizado en máquinas y herramientas, incluyendo máquinas CNC, para mantener tu equipo en condiciones de trabajo óptimas.',
+      icon: Cog6ToothIcon,
     },
     {
-      name: 'Media Inquiries',
+      name: 'Fabricación de Piezas por Corte Laser y Doblado',
       href: '#contacto',
       description:
-        'Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames.',
-      icon: NewspaperIcon,
+        'Nuestra tecnología de corte láser de vanguardia nos permite crear piezas precisas y personalizadas de acuerdo a tus especificaciones. Combinado con nuestro servicio de doblado, ofrecemos soluciones de fabricación eficientes y de alta calidad. Ya sea para prototipos o producción a gran escala, estamos preparados para cumplir con tus requerimientos.',
+      icon: BoltIcon,
     },
   ]
   </script>

@@ -1,5 +1,5 @@
 <template>
-    <div id="banner" class="fixed inset-x-0 bottom-0 pb-2 sm:pb-5 z-20">
+    <div id="banner" class="fixed inset-x-0 bottom-0 pb-2 sm:pb-5 z-10">
       <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div class="rounded-lg bg-yellow-600 p-2 shadow-lg sm:p-3">
           <div class="flex flex-wrap items-center justify-between">

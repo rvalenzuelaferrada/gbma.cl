@@ -18,7 +18,7 @@ defineProps({
 </script>
 
 <template>
-    <Head title="Welcome" />
+    <Head title="Reparación y fabricación de maquinaria" />
 
     <Hero />
 

@@ -78,7 +78,7 @@
             <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">GBM</h1>
             <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">AUTOMATIZACION</h1>
             <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">MAESTRANZA</h1>
-            <p class="mt-6 text-2xl leading-8 text-gray-200">Expertos en reparación y fabricación de maquinaria, especializados en metales no ferrosos y maestría en la transformación de polímeros para brindar soluciones industriales de vanguardia.</p>
+            <p class="mt-6 text-2xl leading-8 text-gray-200">Expertos en reparación y fabricación de maquinaria, especializados en metales no ferrosos, acero inoxidable y maestría en la transformación de polímeros para brindar soluciones industriales de vanguardia.</p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
               <a href="#servicios" class="rounded-md bg-yellow-500 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400">Servicios</a>
               <a href="#proyectos" class="text-base font-semibold leading-7 text-white">Proyectos <span aria-hidden="true">→</span></a>

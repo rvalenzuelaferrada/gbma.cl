@@ -6,7 +6,7 @@
             <a :href="item.href" class="text-sm leading-6 text-gray-600 hover:text-gray-900">{{ item.name }}</a>
           </div>
         </nav>
-        <p class="mt-10 text-center text-xs leading-5 text-gray-500">&copy; 2023 GBM SPA, Inc. All rights reserved.</p>
+        <p class="mt-10 text-center text-xs leading-5 text-gray-500">&copy; 2023 GBM Automatización SPA</p>
       </div>
     </footer>
   </template>

@@ -18,7 +18,7 @@
         <div class="relative bg-white shadow-xl">
           <h2 class="sr-only">Hablemos</h2>
 
-          <div class="grid grid-cols-1 lg:grid-cols-3">
+          <div class="grid grid-cols-1"><!-- lg:grid-cols-3 -->
             <!-- Contact information -->
             <div class="relative overflow-hidden bg-yellow-700 py-10 px-6 sm:px-10 xl:p-12">
               <div class="pointer-events-none absolute inset-0 sm:hidden" aria-hidden="true">
@@ -55,12 +55,12 @@
                 </svg>
               </div>
               <h3 class="text-lg font-medium text-white">Hablemos</h3>
-              <p class="mt-6 max-w-3xl text-base text-yellow-50">Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu.</p>
+              <p class="mt-6 max-w-3xl text-base text-yellow-50">Estamos aquí para responder tus preguntas, discutir proyectos potenciales o simplemente mantenernos en contacto. ¡No dudes en ponerte en contacto con nosotros hoy mismo!</p>
               <dl class="mt-8 space-y-6">
                 <dt><span class="sr-only">Phone number</span></dt>
                 <dd class="flex text-base text-yellow-50">
                   <PhoneIcon class="h-6 w-6 flex-shrink-0 text-yellow-200" aria-hidden="true" />
-                  <span class="ml-3">+1 (555) 123-4567</span>
+                  <span class="ml-3"><a target="_blank" href="https://api.whatsapp.com/send?phone=+56995332391&text=.">+56 9 9533 2391</a></span>
                 </dd>
                 <dt><span class="sr-only">Email</span></dt>
                 <dd class="flex text-base text-yellow-50">
@@ -68,6 +68,7 @@
                   <span class="ml-3">gabriel@gbma.cl</span>
                 </dd>
               </dl>
+              <!--
               <ul role="list" class="mt-8 flex space-x-12">
                 <li>
                   <a class="text-yellow-200 hover:text-yellow-100" href="#">
@@ -77,7 +78,6 @@
                     </svg>
                   </a>
                 </li>
-                <!--
                 <li>
                   <a class="text-yellow-200 hover:text-yellow-100" href="#">
                     <span class="sr-only">GitHub</span>
@@ -94,11 +94,11 @@
                     </svg>
                   </a>
                 </li>
-                -->
               </ul>
+                -->
             </div>
 
-            <!-- Contact form -->
+            <!-- Contact form
             <div class="py-10 px-6 sm:px-10 lg:col-span-2 xl:p-12">
               <h3 class="text-lg font-medium text-gray-900">Envíanos tu mensaje</h3>
               <form action="#" method="POST" class="mt-6 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
@@ -123,7 +123,7 @@
                 <div>
                   <div class="flex justify-between">
                     <label for="phone" class="block text-sm font-medium text-gray-900">Teléfono</label>
-                    <span id="phone-optional" class="text-sm text-gray-500">Optional</span>
+                    <span id="phone-optional" class="text-sm text-gray-500">Opcional</span>
                   </div>
                   <div class="mt-1">
                     <input type="text" name="phone" id="phone" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4 text-gray-900 shadow-sm focus:border-yellow-500 focus:ring-yellow-500" aria-describedby="phone-optional" />
@@ -138,7 +138,7 @@
                 <div class="sm:col-span-2">
                   <div class="flex justify-between">
                     <label for="message" class="block text-sm font-medium text-gray-900">Mensaje</label>
-                    <span id="message-max" class="text-sm text-gray-500">Max. 500 characters</span>
+                    <span id="message-max" class="text-sm text-gray-500">Max. 2000 caracteres</span>
                   </div>
                   <div class="mt-1">
                     <textarea id="message" name="message" rows="4" class="block w-full rounded-md border-gray-300 py-3 px-4 text-gray-900 shadow-sm focus:border-yellow-500 focus:ring-yellow-500" aria-describedby="message-max" />
@@ -149,6 +149,7 @@
                 </div>
               </form>
             </div>
+            -->
           </div>
         </div>
       </div>

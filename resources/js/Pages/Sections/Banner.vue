@@ -8,8 +8,8 @@
                 <MegaphoneIcon class="h-6 w-6 text-white" aria-hidden="true" />
               </span>
               <p class="ml-3 truncate font-medium text-white">
-                <span class="md:hidden">We announced a new product!</span>
-                <span class="hidden md:inline">Trabajemos juntos, estamos a un llamado de iniciar tu proyecto</span>
+                <span class="md:hidden">¡Hablemos, estamos aquí!</span>
+                <span class="hidden md:inline">¿Listo para comenzar? ¡Contáctanos ahora y hablemos sobre tu proyecto!</span>
               </p>
             </div>
             <div class="order-3 mt-2 w-full flex-shrink-0 sm:order-2 sm:mt-0 sm:w-auto">

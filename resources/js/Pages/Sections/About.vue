@@ -48,9 +48,10 @@
             <span class="block text-center text-lg font-semibold text-yellow-600">¿Quiénes somos?</span>
             <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Transformando Desafíos en Ingeniería: Innovación, Polímeros y Automatización Industrial"</span>
           </h1>
-          <p class="mt-8 text-xl leading-8 text-gray-500">Desde nuestros inicios, hemos trazado un extraordinario camino en la fabricación y la ingeniería industrial. Comenzamos con piezas clave como ejes y engranajes, sumando mantenimiento y creación de estructuras sólidas.</p>
         </div>
         <div class="prose prose-lg prose-yellow mx-auto mt-6 text-gray-500">
+            <p>Desde nuestros inicios, hemos trazado un extraordinario camino en la fabricación y la ingeniería industrial. Comenzamos con piezas claves como ejes y engranajes, sumando mantenimiento y creación de estructuras sólidas.</p>
+
           <p>Nuestra destreza artesanal nos impulsó a abordar un desafío único en Chile: diseñar y fabricar una máquina para imprimir etiquetas autoadhesivas en envases de vino, una tarea previamente considerada inalcanzable debido a su complejidad y costos. Esta proeza no solo demostró nuestra capacidad técnica, sino también nuestra voluntad de encontrar soluciones innovadoras.</p>
 
           <p>Basados en la confianza de amigos, prosperamos y forjamos una reputación en resultados sólidos y calidad impecable. Luego, evolucionamos hacia la automatización y robótica, liderando proyectos integrales de montaje y puesta en marcha de líneas automatizadas en la industria alimentaria. En este proceso, surgió la necesidad de fortalecer nuestro conocimiento en polímeros para aplicaciones alimenticias, especialmente aquellos que pudieran resistir líquidos corrosivos, incluso ácidos.</p>
